@@ -63,7 +63,7 @@ img.lado{
 
 }
 img.meio{
-    
+   align-items: center; 
    margin: auto;
   display: block;   
     
