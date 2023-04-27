@@ -79,3 +79,14 @@ a:hover{
     text-decoration: underline;
     color: rgb(26, 20, 255);
 }
+p.paragrafo1{
+    padding: 10px;
+    text-align:justify;
+    display: flex;
+    
+}
+p.paragrafo2{
+    text-align: justify;
+    padding: 10px;
+    display: flex;
+}
