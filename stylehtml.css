@@ -1,0 +1,57 @@
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size:16px;
+
+}
+body{
+    padding: 20px;
+}
+main{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 3px,3px,5px rgba(0, 0, 0, 473);
+}
+
+main.cursodehtml{
+    background-color:rgb(215, 240, 222);
+}
+main.javascript{
+    background-color: rgb(246, 250, 193);
+}
+
+.body2{
+    background-color: rgb(215, 248, 165);
+    background-image: linear-gradient(to right, rgb(165, 228, 129) , rgb(243, 243, 140));
+}
+
+h1.cursodehtml{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(26, 20, 255);
+}
+
+h1.javascript{
+    text-align: center;
+    font-size: 2em;
+    color: rgb(250, 0, 50);
+}
+
+a.linkdohtml{
+    text-decoration: none;
+   }
+
+p.paragrafo2{
+    text-align: justify;
+    padding: 10px;
+    display: flex;
+}
+img.lado{
+    float:right;
+    padding-left:  10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
